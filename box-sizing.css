@@ -1,0 +1,15 @@
+.DIV1{
+    width: 400px;
+    height: 80px;
+    border: 2px solid red;
+    box-sizing: border-box;
+    
+}
+
+.DIV2{
+    width: 400px;
+    height: 80px;
+    border: 2px solid grey;
+    padding: 50px;
+    box-sizing: border-box;
+}
