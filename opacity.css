@@ -1,0 +1,25 @@
+body{
+    background-color: burlywood;
+}
+img {
+    padding: 10px;
+    opacity: 0.5;
+  }
+  
+  
+  img:hover {
+    opacity:1;
+  }
+  .box{
+    
+    font-size: 1.2rem;
+    width: 600px ;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid brown;
+    background-color: darkolivegreen;
+    opacity: .7;
+
+  }
+
+
