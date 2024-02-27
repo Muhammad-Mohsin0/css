@@ -6,9 +6,18 @@ body {
     padding: 40px ;
 }
 
-a{
-    color: #444;
+a:link, a:visited {
+    background-color: #635f5f;
+    color: white;
+    padding: 17px 28px;
+    text-align: center;
+    display: inline-block;
     text-decoration: none;
+    border-radius: 20px;
+  }
+  
+  a:hover, a:active {
+    background-color: rgb(167, 156, 156);
 }
 h1,h2,h3{
     color: #222;
