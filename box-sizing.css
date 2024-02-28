@@ -1,15 +1,39 @@
-.DIV1{
-    width: 400px;
-    height: 80px;
-    border: 2px solid red;
+*{
     box-sizing: border-box;
-    
+
 }
 
-.DIV2{
-    width: 400px;
-    height: 80px;
-    border: 2px solid grey;
-    padding: 50px;
-    box-sizing: border-box;
+.fav-Musician{
+    border: 5px solid green;
+}
+.maroon5{
+    width: 25%;
+    background-color: lightgoldenrodyellow;
+    float: left;
+    padding: 10px;
+
+}
+.akon{
+    width: 25%;
+    float: left;
+    background-color: cadetblue;
+    padding: 10px;
+
+}
+.asim{
+    width: 25%;
+    float: left;
+    background-color: rgb(42, 146, 91);
+    padding: 10px;
+
+}
+.ali{width: 25%;
+    float: left;
+    background-color: rgba(16, 83, 15, 0.322);
+    padding: 10px;
+
+
+}
+.clearfix{
+    clear: both;
 }
