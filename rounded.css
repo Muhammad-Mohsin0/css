@@ -1,5 +1,6 @@
 #rcorner1 {
     border-radius: 25px;
+    /* border-radius: 50%; for circle */
     background: #17200a;
     padding: 20px; 
     width: 200px;
